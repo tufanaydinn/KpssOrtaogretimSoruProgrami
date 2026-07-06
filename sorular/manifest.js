@@ -8,5 +8,8 @@ window.KPSS_MANIFEST = [
   "guncel-1.js",
   "matematik-2.js",
   "turkce-2.js",
-  "tarih-2.js"
+  "tarih-2.js",
+  "cografya-2.js",
+  "vatandaslik-2.js",
+  "guncel-2.js"
 ];
