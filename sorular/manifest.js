@@ -28,5 +28,6 @@ window.KPSS_MANIFEST = [
   "tarih-5.js",
   "cografya-5.js",
   "turkce-6.js",
-  "turkce-7.js"
+  "turkce-7.js",
+  "turkce-8.js"
 ];
